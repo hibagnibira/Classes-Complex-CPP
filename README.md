@@ -11,4 +11,5 @@ Implémentation en C++ d'une classe de nombres complexes avec surcharge des opé
 - `Complex.cpp` : Implémentation de la logique mathématique.
 - `main.cpp` : Fichier de test de la classe.
 
-- Travail réalisé à la FST Mohammedia par **Hgiba Gnibira**.
+
+Travail réalisé à la FST Mohammedia par **Hgiba Gnibira**.
